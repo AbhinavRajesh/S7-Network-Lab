@@ -36,4 +36,5 @@ while True:
     # Close the server after 1 client is connected..
     # Remove the following "break" if you want the server to not
     # kill itself after only 1 connection
+    print("Now that I've received a connection, imma kms")
     break
